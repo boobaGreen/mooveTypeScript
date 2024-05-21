@@ -10,3 +10,6 @@ npx tsc --init --rootDir src --outDir build \
 npx tsc
 
 node ./build/index.js
+
+
+ npx tsc && node build/index.js
