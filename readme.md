@@ -31,7 +31,6 @@
 > - [Codepen](#codepen)
 > - [Contributing](#contributing)
 > - [License](#license)
-> - [Acknowledgments](#acknowledgments)
 
 ---
 
@@ -191,9 +190,5 @@ Once your PR is reviewed and approved, it will be merged into the main branch.
 This project is protected under the [ISC](LICENSE) License.
 
 ---
-
-## Acknowledgments
-
-- Acknowledge any resources, contributors, inspiration, etc.
 
 [**Return**](#quick-links)
