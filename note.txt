@@ -1,4 +1,3 @@
-- aggiungere una parte dove spiego perche' ho usato enum
 
 - presentazione canvas
 

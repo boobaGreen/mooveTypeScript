@@ -28,6 +28,7 @@
 > - [Getting Started](#getting-started)
 >   - [Installation](#installation)
 >   - [Running mooveTypeScript](#running-moovetypescript)
+> - [Codepen](#codepen)
 > - [Contributing](#contributing)
 > - [License](#license)
 > - [Acknowledgments](#acknowledgments)
@@ -136,6 +137,14 @@ Use the following command to run mooveTypeScript:
 ```sh
 node build/index.js
 ```
+
+---
+
+## CodePen
+
+We've created a simple example on CodePen to demonstrate a basic implementation of some functionalities of the MooveTypeScript project. Feel free to check it out and play around:
+
+## [MooveTypeScript CodePen](https://codepen.io/boobagreen/pen/JjqXzJb)
 
 ---
 
