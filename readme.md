@@ -55,7 +55,6 @@ MooveTypeScript is an urban transportation management application implemented in
 
 ```sh
 └── mooveTypeScript/
-    ├── note.txt
     ├── package-lock.json
     ├── package.json
     ├── src
