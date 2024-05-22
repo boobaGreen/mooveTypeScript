@@ -144,9 +144,11 @@ node build/index.js
 
 We've created a simple example on CodePen to demonstrate a basic implementation of some functionalities of the MooveTypeScript project. Feel free to check it out and play around:
 
+PS select Typescript in the setup "wheel" and open the browser console with "F12" to see result
+
 ## [MooveTypeScript CodePen](https://codepen.io/boobagreen/pen/JjqXzJb)
 
----
+---s
 
 ## Contributing
 
