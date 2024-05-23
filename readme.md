@@ -146,7 +146,7 @@ PS select Typescript in the setup "wheel" and open the browser console with "F12
 
 ## [MooveTypeScript CodePen](https://codepen.io/boobagreen/pen/JjqXzJb)
 
----s
+---
 
 ## Contributing
 
