@@ -46,7 +46,6 @@ MooveTypeScript is an urban transportation management application implemented in
 - **Vehicle Booking**: Users can book available vehicles and receive notifications about their availability.
 - **Payment Methods Integration**: Supports various payment methods such as credit card, PayPal, ApplePay, and GooglePay.
 
-[View on Eraser![](https://app.eraser.io/workspace/HFPC2ALDLKvtidwPkelJ/preview?elements=c594sstGMHKtHw39gqd2MA&type=embed)](https://app.eraser.io/workspace/HFPC2ALDLKvtidwPkelJ?elements=c594sstGMHKtHw39gqd2MA)
 
 ---
 
